@@ -23,7 +23,7 @@ class Employee:
         return Employee("New", self.age + other_employee.age, "dev", 2000)
 
 
-employee1 = Employee("Ji-Soo", 38, "developer", 1200)
+employee1 = Employee("karthik", 38, "developer", 1200)
 employee2 = Employee("Mohan", 44, "tester", 1000)
 # employee1.__class__
 # employee1.__dict__

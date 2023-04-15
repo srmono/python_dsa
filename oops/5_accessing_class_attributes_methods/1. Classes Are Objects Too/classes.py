@@ -20,7 +20,7 @@ class Employee:
         self._salary = salary
 
 
-e = Employee("Ji-Soo", 38, 1000)
+e = Employee("karthik", 38, 1000)
 print(e.minimum_wage)
 print(Employee.minimum_wage)
 

@@ -29,7 +29,7 @@ class Employee:
         self._salary = salary
 
 
-employee1 = Employee("Ji-Soo", 38, "developer", 1200)
+employee1 = Employee("karthik", 38, "developer", 1200)
 employee2 = Employee("Mohan", 44, "tester", 1000)
 
 employee1.set_salary(2000)

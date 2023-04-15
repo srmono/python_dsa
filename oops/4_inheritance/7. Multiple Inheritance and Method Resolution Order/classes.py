@@ -32,7 +32,7 @@ class Developer(SlotsInspectorMixin, Employee):
         self.salary += bonus
 
 
-employee2 = Developer("Ji-Soo", 38, 1000, "Flask")
+employee2 = Developer("karthik", 38, 1000, "Flask")
 print(employee2.__dict__)
 # print(employee2.has_slots())
 # print(Developer.__mro__)

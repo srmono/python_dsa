@@ -8,7 +8,7 @@ class Developer:
         self.framework = framework
 
 
-employee1 = Developer("Ji-Soo", 38, 1000, "Flask")
+employee1 = Developer("karthik", 38, 1000, "Flask")
 
 print(employee1.__slots__)
 # print(employee1.__dict__)

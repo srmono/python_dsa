@@ -19,7 +19,7 @@ class Employee:
         )
 
 
-employee1 = Employee("Ji-Soo", 38, "developer", 1200)
+employee1 = Employee("karthik", 38, "developer", 1200)
 employee2 = Employee("Mohan", 44, "tester", 1000)
 # print(str(employee1))
 print(eval(repr(employee1)))
